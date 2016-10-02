@@ -5,20 +5,20 @@
     <description>krong@stanford.edu</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Sep 2016 18:58:50 +0800</pubDate>
-    <lastBuildDate>Fri, 09 Sep 2016 18:58:50 +0800</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2016 12:08:32 -0700</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2016 12:08:32 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Macrobase on arXiv</title>
         <description>&lt;p&gt;We posted new MacroBase results &lt;a href=&quot;http://arxiv.org/pdf/1603.00567.pdf&quot;&gt;on the arXiv&lt;/a&gt;, including new results from production, video monitoring, time-series analysis.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 23 Jul 2016 00:00:00 +0800</pubDate>
-        <link>/news/2016/07/23/New-Macrobase-results.html</link>
-        <guid isPermaLink="true">/news/2016/07/23/New-Macrobase-results.html</guid>
+        <pubDate>Sat, 23 Jul 2016 00:00:00 -0700</pubDate>
+        <link>/updates/2016/07/23/New-Macrobase-results.html</link>
+        <guid isPermaLink="true">/updates/2016/07/23/New-Macrobase-results.html</guid>
         
         
-        <category>news</category>
+        <category>updates</category>
         
       </item>
     
@@ -26,12 +26,12 @@
         <title>Reproducing Network Research</title>
         <description>&lt;p&gt;I wrote a &lt;a href=&quot;https://reproducingnetworkresearch.wordpress.com/2016/05/30/cs244-16-self-clocked-rate-adaptation-for-conversational-video-in-lte/&quot;&gt;blog post&lt;/a&gt; on reproducing results from the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2631976&quot;&gt;SCReAM paper&lt;/a&gt;. SCReAM (Self-Clocked Rate Adaptation for Multimedia) is a rate adaptive, delay-based congestion control algorithm devised mainly for conversational video services under LTE environment.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 30 May 2016 00:00:00 +0800</pubDate>
-        <link>/news/2016/05/30/reproducing-network-research.html</link>
-        <guid isPermaLink="true">/news/2016/05/30/reproducing-network-research.html</guid>
+        <pubDate>Mon, 30 May 2016 00:00:00 -0700</pubDate>
+        <link>/updates/2016/05/30/reproducing-network-research.html</link>
+        <guid isPermaLink="true">/updates/2016/05/30/reproducing-network-research.html</guid>
         
         
-        <category>news</category>
+        <category>updates</category>
         
       </item>
     
