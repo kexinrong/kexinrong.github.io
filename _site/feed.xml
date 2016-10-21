@@ -5,9 +5,22 @@
     <description>krong@stanford.edu</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Oct 2016 00:31:46 -0700</pubDate>
-    <lastBuildDate>Thu, 06 Oct 2016 00:31:46 -0700</lastBuildDate>
+    <pubDate>Thu, 20 Oct 2016 23:40:02 -0700</pubDate>
+    <lastBuildDate>Thu, 20 Oct 2016 23:40:02 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>MacroBase Paper</title>
+        <description>MacroBase Paper got accepted in &lt;i&gt;SIGMOD&lt;/i&gt; and &lt;i&gt;CIDER 2017&lt;/i&gt; !
+</description>
+        <pubDate>Tue, 11 Oct 2016 00:00:00 -0700</pubDate>
+        <link>/updates/2016/10/11/macrobase-paper.mdown</link>
+        <guid isPermaLink="true">/updates/2016/10/11/macrobase-paper.mdown</guid>
+        
+        
+        <category>updates</category>
+        
+      </item>
     
       <item>
         <title>Macrobase on arXiv</title>

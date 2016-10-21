@@ -5,6 +5,24 @@ permalink: /experience/
 ---
 
 <div class="manual-post">
+<p>  <div class="manual-content">
+<exp>
+  <div id="exp-text">
+    <strong><span style="letter-spacing: 3px !important;
+           text-transform: uppercase !important;">Teaching Assistant @ Caltech</span></strong><br>
+    During undergrad, I served as a teaching assistant for the following classes:
+    <ul>
+    <li>CS 1 - Introduction to Computer Programming</li>
+    <li>CS 24 - Introduction to Computing Systems</li>
+    <li>CS 122 - Relational Database Implementation</li>
+    </ul>
+  </div>
+  <div id="exp-logo">{% include Caltech.svg%}</div>
+</exp>
+</div>
+</p>
+<br>
+<br>
   <div class="manual manual-title">
    <p class="post-meta">2015</p>
   </div>

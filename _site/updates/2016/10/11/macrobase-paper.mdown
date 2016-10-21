@@ -6,14 +6,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Publications</title>
-  <meta name="description" content="krong@stanford.edu">
+  <title>MacroBase Paper</title>
+  <meta name="description" content="MacroBase Paper got accepted in SIGMOD and CIDER 2017 !">
   <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Source+Sans+Pro:400,700,200,300|Josefin+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
   <link rel="icon" href="/css/stanford-favicon.png" type="image/x-icon">
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="/publication/">
+  <link rel="canonical" href="/updates/2016/10/11/macrobase-paper.mdown">
   <link rel="alternate" type="application/rss+xml" title="Kexin Rong" href="/feed.xml">
 </head>
 
@@ -72,42 +72,20 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <article class="post">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <!--<header class="post-header">
-    <h1 class="post-title">Publications</h1>
-  </header>-->
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline"><a class="post-title-link"  href="/updates/2016/10/11/macrobase-paper.mdown">MacroBase Paper</a></h1>
+  <center>  <p class="post-meta"><time datetime="2016-10-11T00:00:00-07:00" itemprop="datePublished">Oct 11, 2016</time></p>
+    
+   </center>
+  </header>
 
-  <!--
-    <div class="tagline">
-    <span class="page-title">Publications</span> <span class="page-tagline"><em>By date</em></span>
-    </div>
-  -->
-
-  <div class="post-content">
-    <div class="tagline">
-<span class="page-title">Publications</span> <span class="page-tagline"><em>by Date</em></span>
-</div>
-<p><br /></p>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>2017</strong>
-  </div>
-  <p>  <div class="manual-content">
-	<a href="http://futuredata.stanford.edu/private/mb-onepage.pdf">
-      <b>Prioritizing Attention in Analytic Monitoring</b></a><br />
-      Peter Bailis, Edward Gan, Kexin Rong, Sahaana Suri. <br /><i>CIDR 2017.</i> To appear.
-  </div>
-</p>
-<p>  <div class="manual-content">
-	<a href="http://arxiv.org/pdf/1603.00567.pdf">
-      <b>MacroBase: Analytic Monitoring for the Internet of Things</b></a><br />
-      Peter Bailis, Edward Gan, Samuel Madden, Deepak Narayanan, Kexin Rong, Sahaana Suri. <br /><i>SIGMOD 2017.</i> To appear.
-  </div>
-</p>
-</div>
+  <div class="post-content" itemprop="articleBody">
+    MacroBase Paper got accepted in <i>SIGMOD</i> and <i>CIDER 2017</i> !
 
   </div>
+
 
 </article>
 
