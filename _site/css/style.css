@@ -612,3 +612,8 @@ div#exp-text {
 
 div#exp-logo {
   margin-left: 90%; }
+
+/* Dotted underline */
+u.dotted {
+  border-bottom: 1px dotted #999;
+  text-decoration: none; }

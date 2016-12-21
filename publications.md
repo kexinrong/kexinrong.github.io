@@ -13,15 +13,15 @@ tagline: "By date"
   <strong>2017</strong>
   </div>
   <p>  <div class="manual-content">
-	<a href="http://futuredata.stanford.edu/private/mb-onepage.pdf">
-      <b>Prioritizing Attention in Analytic Monitoring</b></a><br>
-      Peter Bailis, Edward Gan, Kexin Rong, Sahaana Suri. <br><i>CIDR 2017.</i> To appear.
+	<a href="http://www.bailis.org/papers/fastdata-cidr2017.pdf">
+      <b>Prioritizing Attention in Fast Data: Principles and Promise</b></a><br>
+      Peter Bailis, Edward Gan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <br><i>CIDR 2017.</i>
   </div>
 </p>
 <p>  <div class="manual-content">
 	<a href="http://arxiv.org/pdf/1603.00567.pdf">
-      <b>MacroBase: Analytic Monitoring for the Internet of Things</b></a><br>
-      Peter Bailis, Edward Gan, Samuel Madden, Deepak Narayanan, Kexin Rong, Sahaana Suri. <br><i>SIGMOD 2017.</i> To appear.
+      <b>MacroBase: Prioritizing Attention in Fast Data</b></a><br>
+      Peter Bailis, Edward Gan, Samuel Madden, Deepak Narayanan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <br><i>SIGMOD 2017.</i> To appear.
   </div>
 </p>
 </div>
