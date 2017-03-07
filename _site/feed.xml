@@ -5,9 +5,22 @@
     <description>krong@stanford.edu</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Dec 2016 13:35:12 -0800</pubDate>
-    <lastBuildDate>Wed, 21 Dec 2016 13:35:12 -0800</lastBuildDate>
+    <pubDate>Mon, 06 Mar 2017 22:00:14 -0800</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2017 22:00:14 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>ASAP Demo</title>
+        <description>&lt;p&gt;Check out the preprint and demo for ASAP (automatic smoothing for time series visualization) at &lt;a href=&quot;http://futuredata.stanford.edu/asap&quot;&gt;futuredata.stanford.edu/asap&lt;/a&gt;. I will also be giving a talk at &lt;a href=&quot;http://monitorama.com/#speakers&quot;&gt;Monitorama 2017&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Mar 2017 00:00:00 -0800</pubDate>
+        <link>/updates/2017/03/06/asap.html</link>
+        <guid isPermaLink="true">/updates/2017/03/06/asap.html</guid>
+        
+        
+        <category>updates</category>
+        
+      </item>
     
       <item>
         <title>MacroBase Paper</title>
