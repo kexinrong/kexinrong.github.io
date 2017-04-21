@@ -6,14 +6,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>MacroBase Paper</title>
-  <meta name="description" content="MacroBase Paper got accepted in SIGMOD and CIDR 2017 !">
+  <title>Asilomar Microcomputer Workshop</title>
+  <meta name="description" content="I gave a talk on MacroBase at this year's Asilomar Microcomputer Workshop.">
   <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Source+Sans+Pro:400,700,200,300|Josefin+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
   <link rel="icon" href="/css/stanford-favicon.png" type="image/x-icon">
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/updates/2016/10/11/macrobase-paper.mdown">
+  <link rel="canonical" href="http://localhost:4000/updates/2017/04/20/asilomar.mdown">
   <link rel="alternate" type="application/rss+xml" title="Kexin Rong" href="http://localhost:4000/feed.xml">
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -84,14 +84,14 @@
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline"><a class="post-title-link"  href="/updates/2016/10/11/macrobase-paper.mdown">MacroBase Paper</a></h1>
-  <center>  <p class="post-meta"><time datetime="2016-10-11T00:00:00-07:00" itemprop="datePublished">Oct 11, 2016</time></p>
+    <h1 class="post-title" itemprop="name headline"><a class="post-title-link"  href="/updates/2017/04/20/asilomar.mdown">Asilomar Microcomputer Workshop</a></h1>
+  <center>  <p class="post-meta"><time datetime="2017-04-20T00:00:00-07:00" itemprop="datePublished">Apr 20, 2017</time></p>
     
    </center>
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    MacroBase Paper got accepted in <i>SIGMOD</i> and <i>CIDR 2017</i> !
+    I gave a talk on MacroBase at this year's <a href="http://amw.org/prog17.pdf">Asilomar Microcomputer Workshop</a>.
 
   </div>
 

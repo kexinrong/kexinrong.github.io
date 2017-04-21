@@ -1,0 +1,7 @@
+---
+layout: post
+title: Asilomar Microcomputer Workshop
+date: 2017-04-20
+categories: "updates"
+---
+I gave a talk on MacroBase at this year's <a href="http://amw.org/prog17.pdf">Asilomar Microcomputer Workshop</a>.
