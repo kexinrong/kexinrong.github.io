@@ -13,7 +13,7 @@ tagline: "By date"
   <strong>Preprint</strong>
   </div>
   <p>  <div class="manual-content">
-  <a href="http://www.bailis.org/papers/fastdata-cidr2017.pdf">
+  <a href="https://arxiv.org/pdf/1703.00983.pdf">
       <b>ASAP: Automatic Smoothing for Attention Prioritization in Time Series Visualization</b></a><br>
       <u class="dotted">Kexin Rong</u>, Peter Bailis <br><i>arXiv:1703.00983.</i>
   </div>
@@ -30,7 +30,7 @@ tagline: "By date"
   </div>
 </p>
 <p>  <div class="manual-content">
-	<a href="http://arxiv.org/pdf/1603.00567.pdf">
+	<a href="http://www.bailis.org/papers/macrobase-sigmod2017.pdf">
       <b>MacroBase: Prioritizing Attention in Fast Data</b></a><br>
       Peter Bailis, Edward Gan, Samuel Madden, Deepak Narayanan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <br><i>SIGMOD 2017.</i>
   </div>
