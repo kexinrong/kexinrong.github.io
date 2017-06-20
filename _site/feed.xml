@@ -3,19 +3,32 @@
   <channel>
     <title>Kexin Rong</title>
     <description>krong@stanford.edu</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Jun 2017 14:41:02 -0700</pubDate>
-    <lastBuildDate>Tue, 06 Jun 2017 14:41:02 -0700</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Jun 2017 22:22:27 -0700</pubDate>
+    <lastBuildDate>Mon, 19 Jun 2017 22:22:27 -0700</lastBuildDate>
     <generator>Jekyll v3.4.1</generator>
     
       <item>
+        <title>ASAP Paper</title>
+        <description>Our ASAP Paper got accepted in &lt;i&gt;VLDB 2017&lt;/i&gt; !
+</description>
+        <pubDate>Thu, 15 Jun 2017 00:00:00 -0700</pubDate>
+        <link>/updates/2017/06/15/asap-paper.mdown</link>
+        <guid isPermaLink="true">/updates/2017/06/15/asap-paper.mdown</guid>
+        
+        
+        <category>updates</category>
+        
+      </item>
+    
+      <item>
         <title>ASAP @ Monitorama</title>
-        <description>I gave a talk on ASAP at &lt;a href=&quot;https://monitorama.com&quot;&gt;Monitorama 2017&lt;/a&gt;. The slides are available &lt;a href=&quot;https://speakerdeck.com/futuredata/automating-dashboard-displays-with-asap&quot;&gt;here&lt;/a&gt;.
+        <description>I gave a talk on ASAP at &lt;a href=&quot;https://monitorama.com&quot;&gt;Monitorama 2017&lt;/a&gt; [&lt;a href=&quot;https://speakerdeck.com/futuredata/automating-dashboard-displays-with-asap&quot;&gt;slides&lt;/a&gt;] [&lt;a href=&quot;https://vimeo.com/221062931&quot;&gt;video&lt;/a&gt;]
 </description>
         <pubDate>Wed, 24 May 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/updates/2017/05/24/monitorama.mdown</link>
-        <guid isPermaLink="true">http://localhost:4000/updates/2017/05/24/monitorama.mdown</guid>
+        <link>/updates/2017/05/24/monitorama.mdown</link>
+        <guid isPermaLink="true">/updates/2017/05/24/monitorama.mdown</guid>
         
         
         <category>updates</category>
@@ -27,8 +40,8 @@
         <description>I gave a talk on MacroBase at this year's &lt;a href=&quot;http://amw.org/prog17.pdf&quot;&gt;Asilomar Microcomputer Workshop&lt;/a&gt;.
 </description>
         <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/updates/2017/04/20/asilomar.mdown</link>
-        <guid isPermaLink="true">http://localhost:4000/updates/2017/04/20/asilomar.mdown</guid>
+        <link>/updates/2017/04/20/asilomar.mdown</link>
+        <guid isPermaLink="true">/updates/2017/04/20/asilomar.mdown</guid>
         
         
         <category>updates</category>
@@ -40,8 +53,8 @@
         <description>&lt;p&gt;Check out the preprint and demo for ASAP (automatic smoothing for time series visualization) at &lt;a href=&quot;http://futuredata.stanford.edu/asap&quot;&gt;futuredata.stanford.edu/asap&lt;/a&gt;. I will also be giving a talk at &lt;a href=&quot;http://monitorama.com/#speakers&quot;&gt;Monitorama 2017&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Mar 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/updates/2017/03/06/asap.html</link>
-        <guid isPermaLink="true">http://localhost:4000/updates/2017/03/06/asap.html</guid>
+        <link>/updates/2017/03/06/asap.html</link>
+        <guid isPermaLink="true">/updates/2017/03/06/asap.html</guid>
         
         
         <category>updates</category>
@@ -50,11 +63,11 @@
     
       <item>
         <title>MacroBase Paper</title>
-        <description>MacroBase Paper got accepted in &lt;i&gt;SIGMOD&lt;/i&gt; and &lt;i&gt;CIDR 2017&lt;/i&gt; !
+        <description>Our MacroBase Paper got accepted in &lt;i&gt;CIDR&lt;/i&gt; and &lt;i&gt;SIGMOD 2017&lt;/i&gt; !
 </description>
         <pubDate>Tue, 11 Oct 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/updates/2016/10/11/macrobase-paper.mdown</link>
-        <guid isPermaLink="true">http://localhost:4000/updates/2016/10/11/macrobase-paper.mdown</guid>
+        <link>/updates/2016/10/11/macrobase-paper.mdown</link>
+        <guid isPermaLink="true">/updates/2016/10/11/macrobase-paper.mdown</guid>
         
         
         <category>updates</category>
@@ -66,8 +79,8 @@
         <description>&lt;p&gt;We posted new MacroBase results &lt;a href=&quot;http://arxiv.org/pdf/1603.00567.pdf&quot;&gt;on the arXiv&lt;/a&gt;, including new results from production, video monitoring, time-series analysis.&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/updates/2016/07/23/New-Macrobase-results.html</link>
-        <guid isPermaLink="true">http://localhost:4000/updates/2016/07/23/New-Macrobase-results.html</guid>
+        <link>/updates/2016/07/23/New-Macrobase-results.html</link>
+        <guid isPermaLink="true">/updates/2016/07/23/New-Macrobase-results.html</guid>
         
         
         <category>updates</category>
@@ -79,8 +92,8 @@
         <description>&lt;p&gt;I wrote a &lt;a href=&quot;https://reproducingnetworkresearch.wordpress.com/2016/05/30/cs244-16-self-clocked-rate-adaptation-for-conversational-video-in-lte/&quot;&gt;blog post&lt;/a&gt; on reproducing results from the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2631976&quot;&gt;SCReAM paper&lt;/a&gt;. SCReAM (Self-Clocked Rate Adaptation for Multimedia) is a rate adaptive, delay-based congestion control algorithm devised mainly for conversational video services under LTE environment.&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 May 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/updates/2016/05/30/reproducing-network-research.html</link>
-        <guid isPermaLink="true">http://localhost:4000/updates/2016/05/30/reproducing-network-research.html</guid>
+        <link>/updates/2016/05/30/reproducing-network-research.html</link>
+        <guid isPermaLink="true">/updates/2016/05/30/reproducing-network-research.html</guid>
         
         
         <category>updates</category>

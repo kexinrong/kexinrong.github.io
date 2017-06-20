@@ -4,4 +4,4 @@ title: MacroBase Paper
 date: 2016-10-11
 categories: "updates"
 ---
-MacroBase Paper got accepted in <i>SIGMOD</i> and <i>CIDR 2017</i> !
+Our MacroBase Paper got accepted in <i>CIDR</i> and <i>SIGMOD 2017</i> !

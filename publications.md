@@ -9,20 +9,16 @@ tagline: "By date"
 </div>
 <br>
 <div class="manual-post">
-<div class="manual manual-title">
-  <strong>Preprint</strong>
-  </div>
-  <p>  <div class="manual-content">
-  <a href="https://arxiv.org/pdf/1703.00983.pdf">
-      <b>ASAP: Automatic Smoothing for Attention Prioritization in Time Series Visualization</b></a><br>
-      <u class="dotted">Kexin Rong</u>, Peter Bailis <br><i>arXiv:1703.00983.</i>
-  </div>
-</p>
-</div>
 <div>
   <div class="manual manual-title">
   <strong>2017</strong>
   </div>
+   <p>  <div class="manual-content">
+  <a href="https://arxiv.org/pdf/1703.00983.pdf">
+      <b>ASAP: Automatic Smoothing for Attention Prioritization in Time Series Visualization</b></a><br>
+      <u class="dotted">Kexin Rong</u>, Peter Bailis <br><i>VLDB 2017. To appear.</i>
+  </div>
+</p>
   <p>  <div class="manual-content">
 	<a href="http://www.bailis.org/papers/fastdata-cidr2017.pdf">
       <b>Prioritizing Attention in Fast Data: Principles and Promise</b></a><br>
