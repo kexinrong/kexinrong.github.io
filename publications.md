@@ -14,9 +14,9 @@ tagline: "By date"
   <strong>2017</strong>
   </div>
    <p>  <div class="manual-content">
-  <a href="https://arxiv.org/pdf/1703.00983.pdf">
-      <b>ASAP: Automatic Smoothing for Attention Prioritization in Time Series Visualization</b></a><br>
-      <u class="dotted">Kexin Rong</u>, Peter Bailis <br><i>VLDB 2017. To appear.</i>
+  <a href="http://www.vldb.org/pvldb/vol10/p1358-rong.pdf">
+      <b>ASAP: Prioritizing Attention via Time Series Smoothing</b></a><br>
+      <u class="dotted">Kexin Rong</u>, Peter Bailis <br><i>VLDB 2017.</i>
   </div>
 </p>
   <p>  <div class="manual-content">

@@ -1,0 +1,7 @@
+---
+layout: post
+title: ASAP Blog Post
+date: 2017-08-07
+categories: "updates"
+---
+I wrote a <a href="http://dawn.cs.stanford.edu/2017/08/07/asap/">blog post</a> explaining ASAP. 

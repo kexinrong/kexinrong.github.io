@@ -6,14 +6,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Publications</title>
-  <meta name="description" content="krong@stanford.edu">
+  <title>ASAP Blog Post</title>
+  <meta name="description" content="I wrote a blog post explaining ASAP. ">
   <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Source+Sans+Pro:400,700,200,300|Josefin+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
   <link rel="icon" href="/css/stanford-favicon.png" type="image/x-icon">
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/publication/">
+  <link rel="canonical" href="http://localhost:4000/updates/2017/08/07/asap-blog-post.mdown">
   <link rel="alternate" type="application/rss+xml" title="Kexin Rong" href="http://localhost:4000/feed.xml">
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -81,50 +81,20 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <article class="post">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <!--<header class="post-header">
-    <h1 class="post-title">Publications</h1>
-  </header>-->
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline"><a class="post-title-link"  href="/updates/2017/08/07/asap-blog-post.mdown">ASAP Blog Post</a></h1>
+  <center>  <p class="post-meta"><time datetime="2017-08-07T00:00:00-07:00" itemprop="datePublished">Aug 7, 2017</time></p>
+    
+   </center>
+  </header>
 
-  <!--
-    <div class="tagline">
-    <span class="page-title">Publications</span> <span class="page-tagline"><em>By date</em></span>
-    </div>
-  -->
-
-  <div class="post-content">
-    <div class="tagline">
-<span class="page-title">Publications</span> <span class="page-tagline"><em>by Date</em></span>
-</div>
-<p><br /></p>
-<div class="manual-post">
-<div>
-  <div class="manual manual-title">
-  <strong>2017</strong>
-  </div>
-   <p>  <div class="manual-content">
-  <a href="http://www.vldb.org/pvldb/vol10/p1358-rong.pdf">
-      <b>ASAP: Prioritizing Attention via Time Series Smoothing</b></a><br />
-      <u class="dotted">Kexin Rong</u>, Peter Bailis <br /><i>VLDB 2017.</i>
-  </div>
-</p>
-  <p>  <div class="manual-content">
-	<a href="http://www.bailis.org/papers/fastdata-cidr2017.pdf">
-      <b>Prioritizing Attention in Fast Data: Principles and Promise</b></a><br />
-      Peter Bailis, Edward Gan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <br /><i>CIDR 2017.</i>
-  </div>
-</p>
-<p>  <div class="manual-content">
-	<a href="http://www.bailis.org/papers/macrobase-sigmod2017.pdf">
-      <b>MacroBase: Prioritizing Attention in Fast Data</b></a><br />
-      Peter Bailis, Edward Gan, Samuel Madden, Deepak Narayanan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <br /><i>SIGMOD 2017.</i>
-  </div>
-</p>
-</div>
-</div>
+  <div class="post-content" itemprop="articleBody">
+    I wrote a <a href="http://dawn.cs.stanford.edu/2017/08/07/asap/">blog post</a> explaining ASAP. 
 
   </div>
+
 
 </article>
 
