@@ -1,0 +1,8 @@
+---
+layout: post
+title: FAST code release 
+date: 2018-04-01
+categories: "updates"
+---
+We released the <a href="https://github.com/stanford-futuredata/quake">source code</a> as well as a <a href="https://github.com/stanford-futuredata/quake/blob/master/FAST_userguide_v0.pdf">user guide</a> for our <i>unsupervised</i>, end-to-end earthquake detection pipeline online.
+

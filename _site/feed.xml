@@ -5,9 +5,23 @@
     <description>krong@stanford.edu</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Apr 2018 14:53:45 -0700</pubDate>
-    <lastBuildDate>Thu, 05 Apr 2018 14:53:45 -0700</lastBuildDate>
-    <generator>Jekyll v3.4.1</generator>
+    <pubDate>Fri, 01 Jun 2018 13:06:56 -0700</pubDate>
+    <lastBuildDate>Fri, 01 Jun 2018 13:06:56 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.2</generator>
+    
+      <item>
+        <title>FAST code release</title>
+        <description>We released the &lt;a href=&quot;https://github.com/stanford-futuredata/quake&quot;&gt;source code&lt;/a&gt; as well as a &lt;a href=&quot;https://github.com/stanford-futuredata/quake/blob/master/FAST_userguide_v0.pdf&quot;&gt;user guide&lt;/a&gt; for our &lt;i&gt;unsupervised&lt;/i&gt;, end-to-end earthquake detection pipeline online.
+
+</description>
+        <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/updates/2018/04/01/fast-code-release.mdown</link>
+        <guid isPermaLink="true">http://localhost:4000/updates/2018/04/01/fast-code-release.mdown</guid>
+        
+        
+        <category>updates</category>
+        
+      </item>
     
       <item>
         <title>ASAP Blog Post</title>
