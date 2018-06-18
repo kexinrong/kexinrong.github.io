@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>FAST code release</title>
-  <meta name="description" content="We released the source code as well as a user guide for our unsupervised, end-to-end earthquake detection pipeline online.">
+  <meta name="description" content="We released the source code as well as a user guide for FAST (Fingerprint And Similarity Thresholding), our unsupervised, end-to-end earthquake detection pip...">
   <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Source+Sans+Pro:400,700,200,300|Josefin+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
   <link rel="icon" href="/css/stanford-favicon.png" type="image/x-icon">
@@ -91,7 +91,7 @@
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    We released the <a href="https://github.com/stanford-futuredata/quake">source code</a> as well as a <a href="https://github.com/stanford-futuredata/quake/blob/master/FAST_userguide_v0.pdf">user guide</a> for our <i>unsupervised</i>, end-to-end earthquake detection pipeline online.
+    We released the <a href="https://github.com/stanford-futuredata/FAST">source code</a> as well as a <a href="https://github.com/stanford-futuredata/FAST/blob/master/FAST_userguide_v0.pdf">user guide</a> for FAST (Fingerprint And Similarity Thresholding), our unsupervised, end-to-end earthquake detection pipeline.
 
 
   </div>

@@ -5,13 +5,13 @@
     <description>krong@stanford.edu</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Jun 2018 13:06:56 -0700</pubDate>
-    <lastBuildDate>Fri, 01 Jun 2018 13:06:56 -0700</lastBuildDate>
+    <pubDate>Mon, 18 Jun 2018 16:25:04 -0700</pubDate>
+    <lastBuildDate>Mon, 18 Jun 2018 16:25:04 -0700</lastBuildDate>
     <generator>Jekyll v3.8.2</generator>
     
       <item>
         <title>FAST code release</title>
-        <description>We released the &lt;a href=&quot;https://github.com/stanford-futuredata/quake&quot;&gt;source code&lt;/a&gt; as well as a &lt;a href=&quot;https://github.com/stanford-futuredata/quake/blob/master/FAST_userguide_v0.pdf&quot;&gt;user guide&lt;/a&gt; for our &lt;i&gt;unsupervised&lt;/i&gt;, end-to-end earthquake detection pipeline online.
+        <description>We released the &lt;a href=&quot;https://github.com/stanford-futuredata/FAST&quot;&gt;source code&lt;/a&gt; as well as a &lt;a href=&quot;https://github.com/stanford-futuredata/FAST/blob/master/FAST_userguide_v0.pdf&quot;&gt;user guide&lt;/a&gt; for FAST (Fingerprint And Similarity Thresholding), our unsupervised, end-to-end earthquake detection pipeline.
 
 </description>
         <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
