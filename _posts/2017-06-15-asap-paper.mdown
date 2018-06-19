@@ -3,5 +3,6 @@ layout: post
 title: ASAP Paper
 date: 2017-06-15
 categories: "updates"
+tag: "#paper"
 ---
 Our ASAP Paper got accepted in <i>VLDB 2017</i> !

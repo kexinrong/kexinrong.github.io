@@ -10,9 +10,9 @@
   <meta name="description" content="Our ASAP Paper got accepted in VLDB 2017 !">
   <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Source+Sans+Pro:400,700,200,300|Josefin+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="icon" href="/css/stanford-favicon.png" type="image/x-icon">
+  <link rel="icon" href="/assets/img/stanford-favicon.png" type="image/x-icon">
 
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="canonical" href="http://localhost:4000/updates/2017/06/15/asap-paper.mdown">
   <link rel="alternate" type="application/rss+xml" title="Kexin Rong" href="http://localhost:4000/feed.xml">
   <script>
@@ -49,6 +49,13 @@
 	    
     
 	    
+	    <a class="page-link" href="/publication/">Publications</a>
+		    
+		    <span class="exclamationMark">/</span>
+		    
+	    
+    
+	    
 	    <a class="page-link" href="/experience/">Experience</a>
 		    
 		    <span class="exclamationMark">/</span>
@@ -56,21 +63,14 @@
 	    
     
 	    
-    
-	    
-    
-	    
-    
-	    
 	    <a class="page-link" href="/updates/">Updates</a>
 		    
-		    <span class="exclamationMark">/</span>
-		    
 	    
     
 	    
-	    <a class="page-link" href="/publication/">Publications</a>
-		    
+    
+	    
+    
 	    
     
 	    

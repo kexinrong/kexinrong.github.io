@@ -232,6 +232,14 @@ pre {
   letter-spacing: 3px;
   text-indent: 3px; }
 
+.sectionTitle {
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-indent: 0px; }
+
 /**
  * Site header
  */
@@ -601,6 +609,10 @@ div#text {
 
 div#image {
   margin-left: 65%; }
+
+div#full {
+  width: 100%;
+  float: left; }
 
 /* Experience */
 exp {

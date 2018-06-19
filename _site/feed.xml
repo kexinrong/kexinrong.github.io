@@ -5,8 +5,8 @@
     <description>krong@stanford.edu</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Jun 2018 16:25:04 -0700</pubDate>
-    <lastBuildDate>Mon, 18 Jun 2018 16:25:04 -0700</lastBuildDate>
+    <pubDate>Mon, 18 Jun 2018 22:21:41 -0700</pubDate>
+    <lastBuildDate>Mon, 18 Jun 2018 22:21:41 -0700</lastBuildDate>
     <generator>Jekyll v3.8.2</generator>
     
       <item>
@@ -17,6 +17,8 @@
         <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/updates/2018/04/01/fast-code-release.mdown</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2018/04/01/fast-code-release.mdown</guid>
+        
+        <category>#code</category>
         
         
         <category>updates</category>
@@ -31,6 +33,8 @@
         <link>http://localhost:4000/updates/2017/08/07/asap-blog-post.mdown</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2017/08/07/asap-blog-post.mdown</guid>
         
+        <category>#blog</category>
+        
         
         <category>updates</category>
         
@@ -43,6 +47,8 @@
         <pubDate>Thu, 15 Jun 2017 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/updates/2017/06/15/asap-paper.mdown</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2017/06/15/asap-paper.mdown</guid>
+        
+        <category>#paper</category>
         
         
         <category>updates</category>
@@ -57,6 +63,8 @@
         <link>http://localhost:4000/updates/2017/05/24/monitorama.mdown</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2017/05/24/monitorama.mdown</guid>
         
+        <category>#talk</category>
+        
         
         <category>updates</category>
         
@@ -69,6 +77,8 @@
         <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/updates/2017/04/20/asilomar.mdown</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2017/04/20/asilomar.mdown</guid>
+        
+        <category>#talk</category>
         
         
         <category>updates</category>
@@ -83,6 +93,8 @@
         <link>http://localhost:4000/updates/2017/03/06/asap.html</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2017/03/06/asap.html</guid>
         
+        <category>#demo</category>
+        
         
         <category>updates</category>
         
@@ -95,6 +107,8 @@
         <pubDate>Tue, 11 Oct 2016 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/updates/2016/10/11/macrobase-paper.mdown</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2016/10/11/macrobase-paper.mdown</guid>
+        
+        <category>#paper</category>
         
         
         <category>updates</category>
@@ -109,6 +123,8 @@
         <link>http://localhost:4000/updates/2016/07/23/New-Macrobase-results.html</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2016/07/23/New-Macrobase-results.html</guid>
         
+        <category>#paper</category>
+        
         
         <category>updates</category>
         
@@ -121,6 +137,8 @@
         <pubDate>Mon, 30 May 2016 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/updates/2016/05/30/reproducing-network-research.html</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2016/05/30/reproducing-network-research.html</guid>
+        
+        <category>#blog</category>
         
         
         <category>updates</category>
