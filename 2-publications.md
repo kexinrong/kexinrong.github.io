@@ -34,7 +34,8 @@ tagline: "By date"
 <p>  <div class="manual-content">
   <a href="/papers/macrobase-cidr17.pdf">
       <b>Prioritizing Attention in Fast Data: Principles and Promise</b></a><br>
-      Peter Bailis, Edward Gan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <br><i>CIDR 2017.</i>
+      Peter Bailis, Edward Gan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <br><i>CIDR 2017.</i><br>
+      <span>[<a href="https://blog.acolyer.org/2017/01/19/prioritizing-attention-in-fast-data-principles-and-promise/">blog</a>]</span>
   </div>
 </p>
 </div>
