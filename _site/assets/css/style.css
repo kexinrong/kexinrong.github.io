@@ -71,7 +71,7 @@ a {
   a:visited {
     color: #1756a9; }
   a:hover {
-    color: black !important;
+    color: #3366BB !important;
     border-bottom: 1px dotted black; }
   a.page-link:hover {
     color: #111;
@@ -250,7 +250,7 @@ pre {
   position: relative; }
 
 .site-title {
-  font-size: 64px;
+  font-size: 60px;
   font-weight: 100;
   font-family: 'PT Sans';
   text-transform: capitalize;
@@ -269,6 +269,14 @@ pre {
   padding-left: 2em;
   padding-right: 2em; }
 
+.exclamationMarkLeft {
+  padding-left: 0em;
+  padding-right: 2em; }
+
+.exclamationMarkRight {
+  padding-left: 2em;
+  padding-right: 0em; }
+
 .site-navigation {
   color: #aaa;
   text-transform: uppercase;
@@ -277,8 +285,8 @@ pre {
   text-indent: 6px;
   font-family: 'Josefin Sans';
   font-weight: 300;
-  padding-top: 5em;
-  padding-bottom: 1em; }
+  padding-top: 3em;
+  padding-bottom: 1.2em; }
 
 .page-title {
   text-transform: uppercase;
@@ -598,21 +606,6 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
-
-/* Bio side by side divs */
-bio {
-  width: 100%; }
-
-div#text {
-  width: 60%;
-  float: left; }
-
-div#image {
-  margin-left: 65%; }
-
-div#full {
-  width: 100%;
-  float: left; }
 
 /* Experience */
 exp {

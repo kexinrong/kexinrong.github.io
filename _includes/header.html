@@ -7,15 +7,15 @@
 </div>
 <div class="wrapper">
   <div class="trigger site-navigation">
-    <!--<a class="page-link" href="{{site.url}}{{site.baseurl}}">HOME</a><span class="exclamationMark">/</span> -->
-
+    <span class="exclamationMarkLeft">|</span>
     {% for sitePage in site.pages %}
 	    {% if sitePage.title %}
-	    <a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
+	    <a style="font-size:16px" class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
 		    {% if sitePage.title != "Updates" %}
-		    <span class="exclamationMark">/</span>
+		    <span class="exclamationMark">|</span>
 		    {% endif %}
 	    {% endif %}
     {% endfor %}
+    <span class="exclamationMarkRight">|</span>
   </div>
 </div>

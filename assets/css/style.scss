@@ -18,6 +18,8 @@ $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
+$light-blue:       #3366BB;
+
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
@@ -154,7 +156,7 @@ a {
     }
 
     &:hover {
-        color: black !important;
+        color: $light-blue !important;
         border-bottom: 1px dotted black ;
     }
 
@@ -167,7 +169,6 @@ a {
     &.postLink{
       color: black !important;
       &:hover {
-
           border-bottom: 1px dotted black ;
       }
 
@@ -381,7 +382,7 @@ pre {
   position: relative;
 }
 .site-title {
-  font-size: 64px;
+  font-size: 60px;
   font-weight: 100;
   font-family: 'PT Sans';
   text-transform: capitalize;
@@ -402,6 +403,14 @@ pre {
   padding-left: 2em;
   padding-right: 2em;
 }
+.exclamationMarkLeft {
+  padding-left: 0em;
+  padding-right: 2em;
+}
+.exclamationMarkRight {
+  padding-left: 2em;
+  padding-right: 0em;
+}
 .site-navigation {
   color: #aaa;
   text-transform: uppercase;
@@ -410,8 +419,8 @@ pre {
   text-indent: 6px;
   font-family: 'Josefin Sans';
   font-weight: 300;
-  padding-top: 5em;
-  padding-bottom: 1em;
+  padding-top: 3em;
+  padding-bottom: 1.2em;
 }
 .page-title {
   text-transform: uppercase;
@@ -686,22 +695,6 @@ pre {
     .il    { color: #099 } // Literal.Number.Integer.Long
 }
 
-
-/* Bio side by side divs */
-bio {
-    width: 100%;
-}
-div#text {
-    width: 60%;
-    float: left;
-}
-div#image {
-    margin-left: 65%;
-}
-div#full {
-  width:100%;
-  float:left;
-}
 
 /* Experience */
 exp {
