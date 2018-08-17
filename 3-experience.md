@@ -18,20 +18,26 @@ permalink: /experience/
 <br>
 <div class="manual sectionTitle"><strong>Teaching</strong><br></div>
 <p>  <div class="manual-content">
+  I served as a teaching assistant for the following classes: 
 <exp>
   <div id="exp-text">
-    At Caltech, I served as a teaching assistant for the following classes:
     <ul>
+<li><span style="letter-spacing: 2px !important;font-weight: 400">Stanford</span></li>
+    <ul>
+    <li>CS 161 - Design and Analysis of Algorithms</li>
+    </ul>
+<li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Caltech</span> </strong> </li>
+ <ul>
     <li>CS 1 - Introduction to Computer Programming</li>
     <li>CS 24 - Introduction to Computing Systems</li>
     <li>CS 122 - Relational Database Implementation</li>
     </ul>
+  </ul>
   </div>
-  <div id="exp-logo"><img src="/assets/img/caltech.png"></div>
+  <div id="exp-logo"><img src="/assets/img/book.png"></div>
 </exp>
 </div>
 </p>
-<br>
 <br>
   <div class="manual sectionTitle"><strong>Industry</strong><br></div>
 <p>  <div class="manual-content">

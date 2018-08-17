@@ -5,9 +5,24 @@
     <description>krong@stanford.edu</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Jun 2018 23:12:40 -0700</pubDate>
-    <lastBuildDate>Mon, 18 Jun 2018 23:12:40 -0700</lastBuildDate>
+    <pubDate>Fri, 17 Aug 2018 16:41:17 -0700</pubDate>
+    <lastBuildDate>Fri, 17 Aug 2018 16:41:17 -0700</lastBuildDate>
     <generator>Jekyll v3.8.2</generator>
+    
+      <item>
+        <title>2-min sketch on FAST</title>
+        <description>&lt;p&gt;I made a 2 minute &lt;a href=&quot;https://www.youtube.com/watch?v=LXi0TIOOfEY&quot;&gt;video&lt;/a&gt; introducing the basic ideas behind FAST, our end-to-end earthquake detection pipeline with sketches. You can find more videos like this on &lt;a href=&quot;http://www.sciencesketches.org/&quot;&gt; Science Sketches &lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Aug 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/updates/2018/08/15/fast-video.html</link>
+        <guid isPermaLink="true">http://localhost:4000/updates/2018/08/15/fast-video.html</guid>
+        
+        <category>#video</category>
+        
+        
+        <category>updates</category>
+        
+      </item>
     
       <item>
         <title>FAST code release</title>
