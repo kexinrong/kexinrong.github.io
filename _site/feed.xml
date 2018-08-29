@@ -5,15 +5,30 @@
     <description>krong@stanford.edu</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Aug 2018 16:41:17 -0700</pubDate>
-    <lastBuildDate>Fri, 17 Aug 2018 16:41:17 -0700</lastBuildDate>
+    <pubDate>Wed, 29 Aug 2018 11:54:42 -0300</pubDate>
+    <lastBuildDate>Wed, 29 Aug 2018 11:54:42 -0300</lastBuildDate>
     <generator>Jekyll v3.8.2</generator>
+    
+      <item>
+        <title>ASAP in Datadog</title>
+        <description>&lt;p&gt;Excited to see ideas from &lt;a href=&quot;http://futuredata.stanford.edu/asap/&quot;&gt;ASAP&lt;/a&gt; made it into Datadog’s new auto-smooth feature. More details are available in their recent &lt;a href=&quot;https://www.datadoghq.com/blog/auto-smoother-asap/&quot;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Aug 2018 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/updates/2018/08/29/asap-datadog.html</link>
+        <guid isPermaLink="true">http://localhost:4000/updates/2018/08/29/asap-datadog.html</guid>
+        
+        <category>#blog</category>
+        
+        
+        <category>updates</category>
+        
+      </item>
     
       <item>
         <title>2-min sketch on FAST</title>
         <description>&lt;p&gt;I made a 2 minute &lt;a href=&quot;https://www.youtube.com/watch?v=LXi0TIOOfEY&quot;&gt;video&lt;/a&gt; introducing the basic ideas behind FAST, our end-to-end earthquake detection pipeline with sketches. You can find more videos like this on &lt;a href=&quot;http://www.sciencesketches.org/&quot;&gt; Science Sketches &lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 15 Aug 2018 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 15 Aug 2018 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/updates/2018/08/15/fast-video.html</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2018/08/15/fast-video.html</guid>
         
@@ -29,7 +44,7 @@
         <description>We released the &lt;a href=&quot;https://github.com/stanford-futuredata/FAST&quot;&gt;source code&lt;/a&gt; as well as a &lt;a href=&quot;https://github.com/stanford-futuredata/FAST/blob/master/FAST_userguide_v0.pdf&quot;&gt;user guide&lt;/a&gt; for FAST (Fingerprint And Similarity Thresholding), our unsupervised, end-to-end earthquake detection pipeline.
 
 </description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 01 Apr 2018 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/updates/2018/04/01/fast-code-release.mdown</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2018/04/01/fast-code-release.mdown</guid>
         
@@ -44,7 +59,7 @@
         <title>ASAP Blog Post</title>
         <description>I wrote a &lt;a href=&quot;http://dawn.cs.stanford.edu/2017/08/07/asap/&quot;&gt;blog post&lt;/a&gt; explaining ASAP. 
 </description>
-        <pubDate>Mon, 07 Aug 2017 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 07 Aug 2017 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/updates/2017/08/07/asap-blog-post.mdown</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2017/08/07/asap-blog-post.mdown</guid>
         
@@ -59,7 +74,7 @@
         <title>ASAP Paper</title>
         <description>Our ASAP Paper got accepted in &lt;i&gt;VLDB 2017&lt;/i&gt; !
 </description>
-        <pubDate>Thu, 15 Jun 2017 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 15 Jun 2017 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/updates/2017/06/15/asap-paper.mdown</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2017/06/15/asap-paper.mdown</guid>
         
@@ -74,7 +89,7 @@
         <title>ASAP @ Monitorama</title>
         <description>I gave a talk on ASAP at &lt;a href=&quot;https://monitorama.com&quot;&gt;Monitorama 2017&lt;/a&gt; [&lt;a href=&quot;https://speakerdeck.com/futuredata/automating-dashboard-displays-with-asap&quot;&gt;slides&lt;/a&gt;] [&lt;a href=&quot;https://vimeo.com/221062931&quot;&gt;video&lt;/a&gt;]
 </description>
-        <pubDate>Wed, 24 May 2017 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 24 May 2017 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/updates/2017/05/24/monitorama.mdown</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2017/05/24/monitorama.mdown</guid>
         
@@ -89,7 +104,7 @@
         <title>MacroBase @ Asilomar</title>
         <description>I gave a talk on MacroBase at this year's &lt;a href=&quot;http://amw.org/prog17.pdf&quot;&gt;Asilomar Microcomputer Workshop&lt;/a&gt;.
 </description>
-        <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 20 Apr 2017 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/updates/2017/04/20/asilomar.mdown</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2017/04/20/asilomar.mdown</guid>
         
@@ -104,7 +119,7 @@
         <title>ASAP Demo</title>
         <description>&lt;p&gt;Check out the preprint and demo for ASAP (automatic smoothing for time series visualization) at &lt;a href=&quot;http://futuredata.stanford.edu/asap&quot;&gt;futuredata.stanford.edu/asap&lt;/a&gt;. I will also be giving a talk at &lt;a href=&quot;http://monitorama.com/#speakers&quot;&gt;Monitorama 2017&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 Mar 2017 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 06 Mar 2017 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/updates/2017/03/06/asap.html</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2017/03/06/asap.html</guid>
         
@@ -119,7 +134,7 @@
         <title>MacroBase Paper</title>
         <description>Our MacroBase Paper got accepted in &lt;i&gt;CIDR&lt;/i&gt; and &lt;i&gt;SIGMOD 2017&lt;/i&gt; !
 </description>
-        <pubDate>Tue, 11 Oct 2016 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 11 Oct 2016 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/updates/2016/10/11/macrobase-paper.mdown</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2016/10/11/macrobase-paper.mdown</guid>
         
@@ -134,26 +149,11 @@
         <title>Macrobase on arXiv</title>
         <description>&lt;p&gt;We posted new MacroBase results &lt;a href=&quot;http://arxiv.org/pdf/1603.00567.pdf&quot;&gt;on the arXiv&lt;/a&gt;, including new results from production, video monitoring, time-series analysis.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 23 Jul 2016 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 23 Jul 2016 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/updates/2016/07/23/New-Macrobase-results.html</link>
         <guid isPermaLink="true">http://localhost:4000/updates/2016/07/23/New-Macrobase-results.html</guid>
         
         <category>#paper</category>
-        
-        
-        <category>updates</category>
-        
-      </item>
-    
-      <item>
-        <title>Reproducing Network Research</title>
-        <description>&lt;p&gt;I wrote a &lt;a href=&quot;https://reproducingnetworkresearch.wordpress.com/2016/05/30/cs244-16-self-clocked-rate-adaptation-for-conversational-video-in-lte/&quot;&gt;blog post&lt;/a&gt; on reproducing results from the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2631976&quot;&gt;SCReAM paper&lt;/a&gt;. SCReAM (Self-Clocked Rate Adaptation for Multimedia) is a rate adaptive, delay-based congestion control algorithm devised mainly for conversational video services under LTE environment.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 30 May 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/updates/2016/05/30/reproducing-network-research.html</link>
-        <guid isPermaLink="true">http://localhost:4000/updates/2016/05/30/reproducing-network-research.html</guid>
-        
-        <category>#blog</category>
         
         
         <category>updates</category>
