@@ -13,27 +13,27 @@ tagline: "By date"
   <strong>2017</strong>
   </div> -->
    <p>  <div class="manual-content">
-  <a  href="/papers/quake-vldb18.pdf" ><b>
-      Locality-Sensitive Hashing for Earthquake Detection: A Case Study of Scaling Data-Driven Science</b></a><br>
-      <u class="dotted">Kexin Rong</u>, Clara Yoon, Karianne Bergen, Hashem Elezabi, Peter Bailis, Philip Levis, Gregory Beroza. <br><i>VLDB 2018</i>.<br><span>[<a href="https://www.youtube.com/watch?v=LXi0TIOOfEY">video</a>][<a href="https://platformlab.stanford.edu/Seminar%20Talks/2018/Kexin%20Rong.pdf">slides</a>][<a href="https://github.com/stanford-futuredata/FAST">code</a>]</span>
+  <a  href="/papers/quake-vldb18.pdf"  style="font-weight: bolder;">
+      Locality-Sensitive Hashing for Earthquake Detection: A Case Study of Scaling Data-Driven Science</a><br>
+      <u class="dotted">Kexin Rong</u>, Clara Yoon, Karianne Bergen, Hashem Elezabi, Peter Bailis, Philip Levis, Gregory Beroza. <br><i>VLDB 2018</i>.<br><span>[<a href="https://dawn.cs.stanford.edu/2018/09/05/quake/">blog</a>][<a href="https://www.youtube.com/watch?v=LXi0TIOOfEY">video</a>][<a href="https://github.com/stanford-futuredata/FAST">code</a>]</span>
   </div>
 </p>
    <p>  <div class="manual-content">
-  <a href="/papers/asap-vldb17.pdf">
-      <b>ASAP: Prioritizing Attention via Time Series Smoothing</b></a><br>
+  <a href="/papers/asap-vldb17.pdf" style="font-weight: bolder;">
+      ASAP: Prioritizing Attention via Time Series Smoothing</a><br>
       <u class="dotted">Kexin Rong</u>, Peter Bailis.<br> <i>VLDB 2017.</i><br>
       <span>[<a href="http://futuredata.stanford.edu/asap/">demo</a>][<a href="http://dawn.cs.stanford.edu/2017/08/07/asap/">blog</a>][<a href="https://vimeo.com/221062931">talk</a>][<a href="https://speakerdeck.com/futuredata/automating-dashboard-displays-with-asap">slides</a>][<a href="https://github.com/stanford-futuredata/ASAP">code</a>]</span> 
   </div>
 </p>
 <p>  <div class="manual-content">
-	<a href="/papers/macrobase-sigmod17.pdf">
-      <b>MacroBase: Prioritizing Attention in Fast Data</b></a> <br>
-      Peter Bailis, Edward Gan, Samuel Madden, Deepak Narayanan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <br><i>SIGMOD 2017.</i><br><span>[<a href="https://macrobase.stanford.edu/">website</a>][<a href="https://github.com/stanford-futuredata/macrobase">code</a>]</span><br>
+	<a href="/papers/macrobase-sigmod17.pdf" style="font-weight: bolder;">
+      MacroBase: Prioritizing Attention in Fast Data</a> <br>
+      Peter Bailis, Edward Gan, Samuel Madden, Deepak Narayanan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <br><i>SIGMOD 2017.</i> <i style="font-weight: bolder;"> Invited to ACM TODS "Best of SIGMOD 2017" Special Issue.</i><br><span>[<a href="https://macrobase.stanford.edu/">website</a>][<a href="https://github.com/stanford-futuredata/macrobase">code</a>]</span><br>
   </div>
 </p>
 <p>  <div class="manual-content">
-  <a href="/papers/macrobase-cidr17.pdf">
-      <b>Prioritizing Attention in Fast Data: Principles and Promise</b></a><br>
+  <a href="/papers/macrobase-cidr17.pdf" style="font-weight: bolder;">
+      Prioritizing Attention in Fast Data: Principles and Promise</a><br>
       Peter Bailis, Edward Gan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <br><i>CIDR 2017.</i><br>
       <span>[<a href="https://blog.acolyer.org/2017/01/19/prioritizing-attention-in-fast-data-principles-and-promise/">blog</a>]</span>
   </div>
