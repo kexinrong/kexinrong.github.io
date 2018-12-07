@@ -12,6 +12,12 @@ tagline: "By date"
 <!--   <div class="manual manual-title">
   <strong>2017</strong>
   </div> -->
+     <p>  <div class="manual-content">
+  <a  href="/papers/macrobase-tods18.pdf"  style="font-weight: bolder;">
+      MacroBase: Prioritizing Attention in Fast Data</a><br>Firas Abuzaid, Peter Bailis, Jialin Ding, Edward Gan, Samuel Madden, Deepak Narayanan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <i style="color:#aaaaaa">(* Alphabetical order)</i> <br><i>ACM TODS, 2018</i>.
+  </div>
+</p>
+
    <p>  <div class="manual-content">
   <a  href="/papers/quake-vldb18.pdf"  style="font-weight: bolder;">
       Locality-Sensitive Hashing for Earthquake Detection: A Case Study of Scaling Data-Driven Science</a><br>
@@ -22,7 +28,7 @@ tagline: "By date"
   <a href="/papers/asap-vldb17.pdf" style="font-weight: bolder;">
       ASAP: Prioritizing Attention via Time Series Smoothing</a><br>
       <u class="dotted">Kexin Rong</u>, Peter Bailis.<br> <i>VLDB 2017.</i><br>
-      <span>[<a href="http://futuredata.stanford.edu/asap/">demo</a>][<a href="http://dawn.cs.stanford.edu/2017/08/07/asap/">blog</a>][<a href="https://vimeo.com/221062931">talk</a>][<a href="https://speakerdeck.com/futuredata/automating-dashboard-displays-with-asap">slides</a>][<a href="https://github.com/stanford-futuredata/ASAP">code</a>]</span> 
+      <span>[<a href="http://futuredata.stanford.edu/asap/">demo</a>][<a href="http://dawn.cs.stanford.edu/2017/08/07/asap/">blog</a>][<a href="https://www.datadoghq.com/blog/auto-smoother-asap/">Datadog blog</a>][<a href="https://vimeo.com/221062931">talk</a>][<a href="https://speakerdeck.com/futuredata/automating-dashboard-displays-with-asap">slides</a>][<a href="https://github.com/stanford-futuredata/ASAP">code</a>]</span> 
   </div>
 </p>
 <p>  <div class="manual-content">

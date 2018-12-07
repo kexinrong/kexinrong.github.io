@@ -81,7 +81,7 @@
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline"><a class="post-title-link"  href="/updates/2018/04/01/fast-code-release.mdown">FAST code release</a></h1>
-  <center>  <p class="post-meta"><time datetime="2018-04-01T00:00:00-07:00" itemprop="datePublished">Apr 1, 2018</time></p>
+  <center>  <p class="post-meta"><time datetime="2018-04-01T00:00:00+08:00" itemprop="datePublished">Apr 1, 2018</time></p>
     
    </center>
   </header>

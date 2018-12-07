@@ -81,7 +81,7 @@
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline"><a class="post-title-link"  href="/updates/2017/04/20/asilomar.mdown">MacroBase @ Asilomar</a></h1>
-  <center>  <p class="post-meta"><time datetime="2017-04-20T00:00:00-07:00" itemprop="datePublished">Apr 20, 2017</time></p>
+  <center>  <p class="post-meta"><time datetime="2017-04-20T00:00:00+08:00" itemprop="datePublished">Apr 20, 2017</time></p>
     
    </center>
   </header>
