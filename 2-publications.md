@@ -12,7 +12,18 @@ tagline: "By date"
 <!--   <div class="manual manual-title">
   <strong>2017</strong>
   </div> -->
-     <p>  <div class="manual-content">
+ <p>  <div class="manual-content">
+  <a  href="/publication/#"  style="font-weight: bolder;">
+  Rehashing Kernel Evaluation in High Dimensions</a> <br>Paris Siminelakis*, <u class="dotted">Kexin Rong*</u>, Peter Bailis, Moses Charikar, Philip Levis. <br><i> To appear at ICML 2019</i>.
+  </div>
+</p>
+
+ <p>  <div class="manual-content">
+  <a  href="/publication/#"  style="font-weight: bolder;">
+  CrossTrainer: Practical Domain Adaptation with Loss Reweighting</a><br> Justin Chen, Edward Gan, <u class="dotted">Kexin Rong</u>, Sahaana Suri, Peter Bailis. <br><i> To appear at SIGMOD DEEM Workshop 2019</i>.
+  </div>
+</p>
+    <p>  <div class="manual-content">
   <a  href="/papers/macrobase-tods18.pdf"  style="font-weight: bolder;">
       MacroBase: Prioritizing Attention in Fast Data</a><br>Firas Abuzaid, Peter Bailis, Jialin Ding, Edward Gan, Samuel Madden, Deepak Narayanan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <i style="color:#aaaaaa">(* Alphabetical order)</i> <br><i>ACM TODS, 2018</i>.
   </div>
