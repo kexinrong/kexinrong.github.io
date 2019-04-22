@@ -39,7 +39,7 @@ permalink: /experience/
 </div>
 </p>
 <br>
-  <div class="manual sectionTitle"><strong>Industry</strong><br></div>
+  <div class="manual sectionTitle"><strong>Internships</strong><br></div>
 <p>  <div class="manual-content">
 <exp>
   <div id="exp-text">
