@@ -19,8 +19,8 @@ tagline: "By date"
 </p>
 
  <p>  <div class="manual-content">
-  <a  href="/publication/#"  style="font-weight: bolder;">
-  CrossTrainer: Practical Domain Adaptation with Loss Reweighting</a><br> Justin Chen, Edward Gan, <u class="dotted">Kexin Rong</u>, Sahaana Suri, Peter Bailis. <br><i> To appear at SIGMOD DEEM Workshop 2019</i>.
+  <a  href="https://arxiv.org/abs/1905.02304"  style="font-weight: bolder;">
+  CrossTrainer: Practical Domain Adaptation with Loss Reweighting</a><br> Justin Chen, Edward Gan, <u class="dotted">Kexin Rong</u>, Sahaana Suri, Peter Bailis. <br><i> SIGMOD DEEM Workshop 2019</i>.
   </div>
 </p>
     <p>  <div class="manual-content">
