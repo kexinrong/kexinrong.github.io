@@ -43,6 +43,16 @@ permalink: /experience/
 <p>  <div class="manual-content">
 <exp>
   <div id="exp-text">
+    <strong><span style="letter-spacing: 2px !important;font-weight: 400">Research Intern</span> <span style="letter-spacing: 2px !important;font-weight: 400;float:right;">MSR Redmond, 2019</span></strong><br>
+    Mentor: Srikanth Kandula, Yao Lu. <br> 
+    Approximate query processing for top-k queries.
+  </div>
+  <div id="exp-logo"><img src="/assets/img/ms.png"></div>
+</exp>
+<br>
+<br>
+<exp>
+  <div id="exp-text">
     <strong><span style="letter-spacing: 2px !important;font-weight: 400">Software Engineering Intern</span> <span style="letter-spacing: 2px !important;font-weight: 400;float:right;">Pinterest, 2015</span></strong><br>
     Collected training data, developed and evaluated models that can classify soft 404 pages with high precision.
   </div>
