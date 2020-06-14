@@ -13,8 +13,8 @@
   <link rel="icon" href="/assets/img/stanford-favicon.png" type="image/x-icon">
 
   <link rel="stylesheet" href="/assets/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/updates/2017/08/07/asap-blog-post.mdown">
-  <link rel="alternate" type="application/rss+xml" title="Kexin Rong" href="http://localhost:4000/feed.xml">
+  <link rel="canonical" href="/updates/2017/08/07/asap-blog-post.mdown">
+  <link rel="alternate" type="application/rss+xml" title="Kexin Rong" href="/feed.xml">
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
