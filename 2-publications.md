@@ -9,6 +9,13 @@ tagline: "By date"
 </div>-->
 <div class="manual-post" style="font-size: 17px">
 <div>
+
+<p>  <div class="manual-content">
+  <a  href="#"  style="font-weight: bolder;">
+  Approximate Partition Selection for Big-Data Workloads using Summary Statistics</a> <br><u class="dotted">Kexin Rong</u>, Yao Lu, Peter Bailis, Srikanth Kandula, Philip Levis. <br><i>VLDB 2020.</i>
+  </div>
+</p>
+
 <!--   <div class="manual manual-title">
   <strong>2017</strong>
   </div> -->
