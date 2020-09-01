@@ -11,8 +11,9 @@ tagline: "By date"
 <div>
 
 <p>  <div class="manual-content">
-  <a  href="#"  style="font-weight: bolder;">
+  <a  href="/papers/ps3.pdf"  style="font-weight: bolder;">
   Approximate Partition Selection for Big-Data Workloads using Summary Statistics</a> <br><u class="dotted">Kexin Rong</u>, Yao Lu, Peter Bailis, Srikanth Kandula, Philip Levis. <br><i>VLDB 2020.</i>
+  <br><span>[<a href="https://www.youtube.com/watch?v=ZmsmB4kcKAQ">talk</a>]</span>
   </div>
 </p>
 
