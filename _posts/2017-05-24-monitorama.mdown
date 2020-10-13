@@ -1,8 +1,0 @@
----
-layout: post
-title: ASAP @ Monitorama
-date: 2017-05-24
-categories: "updates"
-tag: "#talk"
----
-I gave a talk on ASAP at <a href="https://monitorama.com">Monitorama 2017</a> [<a href="https://speakerdeck.com/futuredata/automating-dashboard-displays-with-asap">slides</a>] [<a href="https://vimeo.com/221062931">video</a>]

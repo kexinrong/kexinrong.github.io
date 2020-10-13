@@ -1,8 +1,0 @@
----
-layout: post
-title: MacroBase Paper
-date: 2016-10-11
-categories: "updates"
-tag: "#paper"
----
-Our MacroBase Paper got accepted in <i>CIDR</i> and <i>SIGMOD 2017</i> !

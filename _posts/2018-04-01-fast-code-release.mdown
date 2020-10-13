@@ -1,9 +1,0 @@
----
-layout: post
-title: FAST code release 
-date: 2018-04-01
-categories: "updates"
-tag: "#code"
----
-We released the <a href="https://github.com/stanford-futuredata/FAST">source code</a> as well as a <a href="https://github.com/stanford-futuredata/FAST/blob/master/FAST_userguide_v0.pdf">user guide</a> for FAST (Fingerprint And Similarity Thresholding), our unsupervised, end-to-end earthquake detection pipeline.
-
